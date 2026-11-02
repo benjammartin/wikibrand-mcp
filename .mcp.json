@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wikibrand": {
+      "type": "http",
+      "url": "https://wikibrand.org/api/mcp"
+    }
+  }
+}
